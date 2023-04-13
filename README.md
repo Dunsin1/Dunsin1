@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **NodeJS,Expressjs, ReactJS, MongoDB, MySQL, **
 
-- 📫 How to reach me **ogundejidunsin4@gmail.com**
+- 📫 How to reach me **oluwadunsinogundeji@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
