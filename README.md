@@ -12,11 +12,11 @@
 
 - currently working with GMTsoftware
 
-- 💬 Ask me about **NodeJS,Expressjs, ReactJS, MongoDB, MySQL, **
+- 💬 Ask me about **NodeJS,Expressjs, ReactJS, MongoDB, MySQL,Html,Bootstrap, Css, Javascript **
 
 - 📫 How to reach me **oluwadunsinogundeji@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am energetic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
