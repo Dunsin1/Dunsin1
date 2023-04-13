@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://gmtsoftware.tech)
 
-<h1 align="center">Hi 👋, I'm Ogundeji Oluwadunsin</h1>
+<h1 align="center">Hi 👋, I'm Oluwadunsin F Ogundeji</h1>
 <h3 align="center">I'm a frontend and backend developer</h3>
 <img align="right" width="500" alt="gmtsoftware" src="https://github.com/Dunsin1/Dunsin1/blob/main/lg.png" />
 
